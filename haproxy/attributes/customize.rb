@@ -10,4 +10,4 @@
 #
 #normal[:haproxy][:stats_url] = '/haproxy?stats'
 #normal[:haproxy][:stats_user] = 'opsworks'
-normal[[:haproxy][:version] = '1.5.11'
+normal[:haproxy][:version] = '1.5.11'
